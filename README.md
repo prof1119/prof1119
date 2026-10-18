@@ -4,49 +4,53 @@
 
 # Ahmed Gharib
 
-### Cloud Security Engineer | Security Engineering
+### Cloud Security Engineer · Web & Application Developer
 
-**Securing cloud environments. Strengthening infrastructure. Automating the work that matters.**
+**Building useful digital products. Securing the infrastructure behind them.**
 
 <p>
   <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
-  <img src="https://img.shields.io/badge/Domain-Cloud%20Security-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud security">
-  <img src="https://img.shields.io/badge/Mindset-Secure%20by%20Design-8B5CF6?style=for-the-badge" alt="Secure by design">
+  <img src="https://img.shields.io/badge/Cloud-Security-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud security">
+  <img src="https://img.shields.io/badge-Development-Web%20%26%20Apps-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Web and app development">
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Profile
+## 👨‍💻 About
 
-I work in **cybersecurity with a focus on cloud security**, infrastructure protection, and practical security engineering. I’m interested in building environments that are secure by design, reducing misconfigurations, improving access control, and using automation to make security more consistent.
+I'm Ahmed Gharib, a **Cloud Security Engineer and web/application developer** interested in building reliable software and securing the systems that run it.
 
-My approach combines hands-on problem-solving with an engineering mindset: understand the system, identify risk, apply the right controls, and verify the result.
+I work across software development and security, with a focus on practical solutions, thoughtful implementation, and security-minded engineering.
 
-## 🛡️ Security Focus
+## 🛠️ Development
 
-- **Cloud Security:** secure cloud configuration, security posture, and risk reduction
-- **Identity & Access Management:** least privilege, access control, and identity security
-- **Infrastructure Security:** system hardening, secure defaults, and configuration review
-- **Network Security:** network fundamentals, segmentation concepts, and defensive controls
-- **Security Automation:** scripting and repeatable workflows with Python
-- **Linux Security:** permissions, services, hardening, and system administration
+- **Web Development:** building websites, interfaces, and web-based tools
+- **Application Development:** creating practical apps and experimenting with cross-platform solutions
+- **Automation:** using Python to streamline repetitive tasks and workflows
+- **Developer Workflow:** version control, debugging, and iterative improvement
+
+## 🛡️ Cloud & Security
+
+- **Cloud Security:** secure configuration, security posture, and risk reduction
+- **Identity & Access Management:** access control and least privilege
+- **Infrastructure Security:** hardening, secure defaults, and configuration review
+- **Network & Linux Security:** system fundamentals and defensive controls
+- **Security Automation:** scripting and repeatable security workflows
 
 ## ⚙️ Technical Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Cloud-Security-0EA5E9?style=flat-square&logo=icloud&logoColor=white" alt="Cloud security">
-  <img src="https://img.shields.io/badge/Linux-System%20Security-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Networking-Security-2563EB?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
-  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web technologies">
+  <img src="https://img.shields.io/badge/Flutter-App%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Linux-System%20Security-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JavaScript-Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web development">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
 </p>
 
 ## 🚀 Selected Projects
-
-A few projects and experiments from my GitHub workspace:
 
 | Repository | Overview |
 | --- | --- |
@@ -58,19 +62,19 @@ A few projects and experiments from my GitHub workspace:
 | [Strict Task Manager](https://github.com/prof1119/strict-task-manager) | Task-management project |
 | [Physics Study](https://github.com/prof1119/physics_study) | Study-focused project |
 
-## 🎯 What I Value
+## 🎯 Engineering Principles
 
-- Security that is practical, measurable, and maintainable
-- Least privilege and defense in depth
-- Automation that reduces repetitive work and human error
-- Clear documentation, reproducible testing, and continuous improvement
+- Build with usability, maintainability, and security in mind
+- Apply least privilege and defense in depth
+- Automate repetitive work where it makes sense
+- Prefer clear documentation and verifiable results
 
 ## 🤝 Connect
 
-Explore my repositories to see what I’m building and working on.
+Explore my repositories to see my projects and technical work.
 
 <div align="center">
 
-**Think securely. Build deliberately. Verify everything.** 🔐
+**Build boldly. Secure by design.** 🔐
 
 </div>
