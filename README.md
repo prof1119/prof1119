@@ -4,9 +4,9 @@
 
 # Ahmed Gharib
 
-### Freelance Web & Application Developer
+### Freelance Developer · Web, Python Automation & Networking
 
-**Building practical web experiences, applications, and digital tools.**
+**Building web experiences, automating workflows, and working with networks.**
 
 <p>
   <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
@@ -20,18 +20,30 @@
 
 ## 👨‍💻 About
 
-I'm Ahmed Gharib, a **freelance developer** working on websites, web applications, user interfaces, and practical digital tools. My work includes front-end development, back-end development, responsive layouts, and styling interfaces for different screen sizes.
+I'm Ahmed Gharib, a **freelance developer** working across web development, Python automation, and networking. I build websites and web applications, create scripts to automate repetitive tasks, and work with networking technologies and tools.
 
-I enjoy turning ideas into usable projects, refining the visual details, and choosing tools that fit the job.
+I enjoy practical problem-solving, improving workflows, and building useful tools with clean, maintainable code.
 
 ## 🧩 Web Development
 
 - **Front End:** HTML, CSS, JavaScript, React
 - **Back End:** Node.js and server-side application development
 - **UI & Styling:** Bootstrap, responsive design, reusable components, and interface customization
-- **Application Projects:** building and experimenting with practical apps and web-based tools
-- **Automation:** Python scripts and workflow improvements
-- **Version Control:** Git and GitHub
+- **Web Apps:** dashboards, productivity tools, and practical browser-based applications
+
+## 🐍 Python & Automation
+
+- Automating repetitive tasks and workflows with Python
+- Writing utility scripts and small tools
+- Working with APIs and data-processing tasks where appropriate
+- Improving reliability and reducing manual steps through automation
+
+## 🌐 Networking & Systems
+
+- Working with networking concepts, tools, and configuration
+- Network troubleshooting and connectivity fundamentals
+- Linux and command-line tools for system and network tasks
+- Exploring security-minded configuration and defensive practices
 
 ## 🎨 Interface & Design
 
@@ -41,12 +53,11 @@ I enjoy turning ideas into usable projects, refining the visual details, and cho
 - Dark themes, dashboards, and practical user-focused layouts
 - Bootstrap-based layouts and customization
 
-## 📚 Other Technical Interests
+## 📚 Additional Technical Interests
 
-- **Python:** scripting and automation
-- **Linux & Networking:** system and networking fundamentals
-- **Cybersecurity:** security concepts and defensive practices
 - **Flutter:** cross-platform application development
+- **Cybersecurity:** security concepts and defensive practices
+- **Linux:** system administration and command-line workflows
 
 ## ⚙️ Technical Toolkit
 
@@ -58,8 +69,9 @@ I enjoy turning ideas into usable projects, refining the visual details, and cho
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bootstrap-UI%20Framework-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Networking-Systems-0EA5E9?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
   <img src="https://img.shields.io/badge/Flutter-App%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Linux-System%20Basics-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
+  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
 </p>
 
@@ -77,18 +89,18 @@ I enjoy turning ideas into usable projects, refining the visual details, and cho
 
 ## 🎯 How I Work
 
-- Focus on usability and clear interfaces
+- Focus on practical user needs and clear interfaces
 - Keep code organized and maintainable
-- Adapt layouts to different screen sizes
-- Use automation where it makes sense
-- Document projects and verify changes instead of relying on assumptions
+- Automate repetitive work where it makes sense
+- Troubleshoot methodically and document useful solutions
+- Verify changes instead of relying on assumptions
 
 ## 🤝 Connect
 
-Explore my repositories to see my projects and development work.
+Explore my repositories to see my projects and technical work.
 
 <div align="center">
 
-**Build. Design. Improve.** 🚀
+**Build. Automate. Connect.** 🚀
 
 </div>
