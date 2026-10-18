@@ -91,7 +91,8 @@ Grouped by area, so the stack is easier to scan instead of looking like a techno
 
 <p>
   <a href="https://github.com/prof1119"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+  <a href="https://aghub-8wdxt.sevalla.page"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio"></a>
+  <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-64748B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
 </p>
 
 <div align="center">
