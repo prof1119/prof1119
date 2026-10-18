@@ -1,71 +1,76 @@
-<!-- Profile README for github.com/prof1119 -->
+<!-- Profile README | github.com/prof1119 -->
 
 <div align="center">
 
 # Ahmed Gharib
-### Medical Devices Maintenance Student · Aspiring Software Developer
 
-Building practical projects, learning by experimenting, and turning ideas into useful tools.
+### Cloud Security Engineer | Security Engineering
+
+**Securing cloud environments. Strengthening infrastructure. Automating the work that matters.**
 
 <p>
-  <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
-  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8B5CF6?style=for-the-badge" alt="Continuous learning">
+  <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+  <img src="https://img.shields.io/badge/Domain-Cloud%20Security-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud security">
+  <img src="https://img.shields.io/badge/Mindset-Secure%20by%20Design-8B5CF6?style=for-the-badge" alt="Secure by design">
 </p>
 
 </div>
 
 ---
 
-## 👋 About me
+## 👨‍💻 Profile
 
-I'm Ahmed, a Medical Devices Maintenance student in Egypt with a growing interest in software development and technology. I enjoy learning by building small projects, testing ideas, and improving things step by step.
+I work in **cybersecurity with a focus on cloud security**, infrastructure protection, and practical security engineering. I’m interested in building environments that are secure by design, reducing misconfigurations, improving access control, and using automation to make security more consistent.
 
-- 🌱 **Currently learning:** Python, Flutter, and Linux fundamentals
-- 🧭 **Exploring:** app development, automation, networking, and cybersecurity
-- 🛠️ **Interested in:** practical tools, clean interfaces, and useful learning resources
-- 🎯 **My approach:** stay curious, build consistently, and keep improving
+My approach combines hands-on problem-solving with an engineering mindset: understand the system, identify risk, apply the right controls, and verify the result.
 
-> I'm still learning, and this profile is a record of that journey.
+## 🛡️ Security Focus
 
-## 🧰 Technologies I'm exploring
+- **Cloud Security:** secure cloud configuration, security posture, and risk reduction
+- **Identity & Access Management:** least privilege, access control, and identity security
+- **Infrastructure Security:** system hardening, secure defaults, and configuration review
+- **Network Security:** network fundamentals, segmentation concepts, and defensive controls
+- **Security Automation:** scripting and repeatable workflows with Python
+- **Linux Security:** permissions, services, hardening, and system administration
+
+## ⚙️ Technical Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flutter-Learning-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-Web%20Projects-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web development">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
+  <img src="https://img.shields.io/badge/Cloud-Security-0EA5E9?style=flat-square&logo=icloud&logoColor=white" alt="Cloud security">
+  <img src="https://img.shields.io/badge/Linux-System%20Security-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Networking-Security-2563EB?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
+  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web technologies">
 </p>
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
-A selection of repositories and experiments from my learning journey:
+A few projects and experiments from my GitHub workspace:
 
-| Project | What you'll find |
+| Repository | Overview |
 | --- | --- |
-| [AGHub](https://github.com/prof1119/AGHub) | Personal portfolio and web-development experiments |
-| [SmartBudget](https://github.com/prof1119/SmartBudget) | A budgeting-related project |
-| [DevBoard](https://github.com/prof1119/DevBoard) | A developer-focused interface/project |
-| [Dashboard](https://github.com/prof1119/Dashboard) | Dashboard UI experiments |
-| [MCQ Quiz](https://github.com/prof1119/mcq_quiz) | A multiple-choice quiz project |
-| [Strict Task Manager](https://github.com/prof1119/strict-task-manager) | A task-management project |
-| [Physics Study](https://github.com/prof1119/physics_study) | Study-related project |
+| [AGHub](https://github.com/prof1119/AGHub) | Personal portfolio and web experiments |
+| [SmartBudget](https://github.com/prof1119/SmartBudget) | Budgeting-related application project |
+| [DevBoard](https://github.com/prof1119/DevBoard) | Developer-focused interface project |
+| [Dashboard](https://github.com/prof1119/Dashboard) | Dashboard and UI experiments |
+| [MCQ Quiz](https://github.com/prof1119/mcq_quiz) | Multiple-choice quiz application |
+| [Strict Task Manager](https://github.com/prof1119/strict-task-manager) | Task-management project |
+| [Physics Study](https://github.com/prof1119/physics_study) | Study-focused project |
 
-*Projects evolve as I learn; check each repository for its current status and details.*
+## 🎯 What I Value
 
-## 📌 What I'm working toward
-
-- Strengthening my programming fundamentals
-- Building useful apps and automation tools
-- Becoming more comfortable with Linux and networking
-- Exploring cybersecurity after building a solid foundation
+- Security that is practical, measurable, and maintainable
+- Least privilege and defense in depth
+- Automation that reduces repetitive work and human error
+- Clear documentation, reproducible testing, and continuous improvement
 
 ## 🤝 Connect
 
-The best place to follow my work is right here on GitHub.
+Explore my repositories to see what I’m building and working on.
 
 <div align="center">
 
-**Learn · Build · Improve · Repeat** 💻
+**Think securely. Build deliberately. Verify everything.** 🔐
 
 </div>
