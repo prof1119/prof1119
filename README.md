@@ -75,18 +75,6 @@ I enjoy practical problem-solving, improving workflows, and building useful tool
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
 </p>
 
-## 🚀 Selected Projects
-
-| Repository | Overview |
-| --- | --- |
-| [AGHub](https://github.com/prof1119/AGHub) | Personal portfolio and web experiments |
-| [SmartBudget](https://github.com/prof1119/SmartBudget) | Budgeting-related application project |
-| [DevBoard](https://github.com/prof1119/DevBoard) | Developer-focused interface project |
-| [Dashboard](https://github.com/prof1119/Dashboard) | Dashboard and UI experiments |
-| [MCQ Quiz](https://github.com/prof1119/mcq_quiz) | Multiple-choice quiz application |
-| [Strict Task Manager](https://github.com/prof1119/strict-task-manager) | Task-management project |
-| [Physics Study](https://github.com/prof1119/physics_study) | Study-focused project |
-
 ## 🎯 How I Work
 
 - Focus on practical user needs and clear interfaces
@@ -97,7 +85,10 @@ I enjoy practical problem-solving, improving workflows, and building useful tool
 
 ## 🤝 Connect
 
-Explore my repositories to see my projects and technical work.
+<p>
+  <a href="https://github.com/prof1119"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+</p>
 
 <div align="center">
 
