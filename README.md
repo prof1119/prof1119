@@ -4,14 +4,14 @@
 
 # Ahmed Gharib
 
-### Freelance Developer · Web & Application Projects
+### Freelance Web & Application Developer
 
-**Building useful digital products, one project at a time.**
+**Building practical web experiences, applications, and digital tools.**
 
 <p>
   <a href="https://github.com/prof1119?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
-  <img src="https://img.shields.io/badge/Work-Freelance-0EA5E9?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance work">
-  <img src="https://img.shields.io/badge-Development-Web%20%26%20Apps-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Web and app development">
+  <img src="https://img.shields.io/badge-Work-Freelance-0EA5E9?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelance work">
+  <img src="https://img.shields.io/badge-Web-Development-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Web development">
 </p>
 
 </div>
@@ -20,29 +20,46 @@
 
 ## 👨‍💻 About
 
-I'm Ahmed Gharib, a **freelance developer** interested in building useful websites, applications, and tools. I enjoy solving practical problems, improving my development workflow, and learning technologies that help me deliver better projects.
+I'm Ahmed Gharib, a **freelance developer** working on websites, web applications, user interfaces, and practical digital tools. My work includes front-end development, back-end development, responsive layouts, and styling interfaces for different screen sizes.
 
-## 🛠️ Development
+I enjoy turning ideas into usable projects, refining the visual details, and choosing tools that fit the job.
 
-- **Web Development:** building websites, interfaces, and web-based tools
-- **Application Development:** exploring practical apps and cross-platform solutions
-- **Automation:** using Python to streamline repetitive tasks and workflows
-- **Developer Workflow:** version control, debugging, and iterative improvement
+## 🧩 Web Development
 
-## 📚 Currently Exploring
+- **Front End:** HTML, CSS, JavaScript, React
+- **Back End:** Node.js and server-side application development
+- **UI & Styling:** Bootstrap, responsive design, reusable components, and interface customization
+- **Application Projects:** building and experimenting with practical apps and web-based tools
+- **Automation:** Python scripts and workflow improvements
+- **Version Control:** Git and GitHub
 
-- **Python:** scripting, automation, and practical tools
-- **Linux & Networking:** system administration and core networking concepts
-- **Cybersecurity:** learning security fundamentals and defensive practices
-- **Flutter:** exploring cross-platform application development
+## 🎨 Interface & Design
+
+- Responsive layouts for desktop and mobile
+- Component-based interfaces and reusable UI patterns
+- Styling, spacing, typography, and visual consistency
+- Dark themes, dashboards, and practical user-focused layouts
+- Bootstrap-based layouts and customization
+
+## 📚 Other Technical Interests
+
+- **Python:** scripting and automation
+- **Linux & Networking:** system and networking fundamentals
+- **Cybersecurity:** security concepts and defensive practices
+- **Flutter:** cross-platform application development
 
 ## ⚙️ Technical Toolkit
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Bootstrap-UI%20Framework-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flutter-App%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Linux-System%20Basics-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JavaScript-Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web development">
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
 </p>
 
@@ -60,9 +77,10 @@ I'm Ahmed Gharib, a **freelance developer** interested in building useful websit
 
 ## 🎯 How I Work
 
-- Build around real user needs
-- Keep code understandable and maintainable
-- Automate repetitive work where it makes sense
+- Focus on usability and clear interfaces
+- Keep code organized and maintainable
+- Adapt layouts to different screen sizes
+- Use automation where it makes sense
 - Document projects and verify changes instead of relying on assumptions
 
 ## 🤝 Connect
@@ -71,6 +89,6 @@ Explore my repositories to see my projects and development work.
 
 <div align="center">
 
-**Build, learn, improve.** 🚀
+**Build. Design. Improve.** 🚀
 
 </div>
